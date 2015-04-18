@@ -83,7 +83,7 @@ public class MyArrayList {
 	}
 	
 	public void removeAll(){
-		elementData[1]=0;
+		elementData[0]=0;
 		size=0;
 	}	
 	
